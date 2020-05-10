@@ -1,4 +1,17 @@
 body{
-	background-color: cyan;
-	color: red;
+}
+.container{
+	width: 960px;
+}
+.header{
+	height: 50px;
+	background-color: limegreen;
+}
+.content{
+	height: 50px;
+	background-color: skyblue;
+}
+.footer{
+	height: 50px;
+	background-color: salmon;
 }
